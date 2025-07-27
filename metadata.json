@@ -1,0 +1,6 @@
+{
+  "name": "AI Health Assistant",
+  "description": "An AI-powered health assistant offering personalized workout plans, diet generation, calorie calculation, recipe ideas, and health advice.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
